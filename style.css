@@ -7,13 +7,13 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
-    color: #333;
+    color: #ef5d5d;
     transition: background-color 0.3s, color 0.3s;
 }
 
 body.dark-mode {
     background-color: #333;
-    color: #f0f0f0;
+    color: #0c0000;
 }
 
 .container {
@@ -57,7 +57,7 @@ button:hover {
 }
 
 #dark-theme {
-    background: #007bff;
+    background: #1460b1;
     color: #fff;
 }
 
